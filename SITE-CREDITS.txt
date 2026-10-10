@@ -17,3 +17,19 @@ Converted from NASA's GLB to an uncompressed browser GLB with Blender.
 The Sun texture, orbit geometry, shader effects, and space background are generated for this site.
 
 Lo-Fly game asset notices are in /CREDITS.txt and /licenses/.
+
+Scenes audio
+Cricket recording (The Campsite): "Campagne la nuit #4", BigSoundBank (CC0, public domain),
+trimmed to a 60-second seamless loop and high-passed.
+https://bigsoundbank.com/campagne-la-nuit-4-s1880.html
+Nylon guitar notes (The Campsite): twelve single notes from the FluidR3_GM soundfont, "acoustic_guitar_nylon",
+as converted by the midi-js-soundfonts project. FluidR3_GM is licensed under Creative Commons Attribution 3.0.
+https://github.com/gleitz/midi-js-soundfonts
+Campfire (The Campsite): "Big Branching Fire #3", BigSoundBank (CC0, public domain), trimmed to a seamless loop and levelled.
+https://bigsoundbank.com/big-branching-fire-3-s0989.html
+Coyote howls (The Campsite): "coyote.wav" by stomachache (CC0), https://freesound.org/people/stomachache/sounds/53256/
+and "Coyotes, dog-like animals howling afar, in the background 01" by Simonus18 (CC0), https://freesound.org/people/Simonus18/sounds/855575/
+Each is trimmed to a single howl and filtered.
+Steam train (The Campsite): "Bigboy 4014 Steam Excursion Train" by Ratspeed (CC0), https://freesound.org/people/Ratspeed/sounds/746322/
+A 28 second stretch, made mono and softened.
+Everything else in the scene sounds is synthesized in the browser.

@@ -8,5 +8,6 @@ This repository holds only the built site; the source lives elsewhere.
 | Landing page: an interactive rubber duck in orbit | [`/`](https://jocoly.com/) |
 | **Lo-Fly**: multiplayer voxel flight combat in the browser | [`/lo-fly/`](https://jocoly.com/lo-fly/) |
 | **Daily Game**: "day X of adding features from other games into my game" | [`/daily-game/`](https://jocoly.com/daily-game/) |
+| **Scenes**: quiet, animated first-person scenes with sound | [`/scenes/`](https://jocoly.com/scenes/) |
 
 Third-party asset credits: [`CREDITS.txt`](CREDITS.txt), [`SITE-CREDITS.txt`](SITE-CREDITS.txt) and [`licenses/`](licenses/).
