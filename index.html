@@ -7,11 +7,11 @@
     <meta name="description" content="An interactive rubber duck in orbit. Play Lo-Fly and the Daily Game." />
     <title>jocoly.com</title>
     <link rel="icon" href="/assets/favicon-DB8IwmVq.svg" type="image/svg+xml" />
-    <script type="module" crossorigin src="/assets/main-D5SIvLq3.js"></script>
-    <link rel="modulepreload" crossorigin href="/assets/site-DkAqR7CB.js">
+    <script type="module" crossorigin src="/assets/main-CAgz_WyH.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/site-q9tcTUaJ.js">
     <link rel="modulepreload" crossorigin href="/assets/three.module-B9PKC9r9.js">
     <link rel="modulepreload" crossorigin href="/assets/BufferGeometryUtils-BU6Eg-JL.js">
-    <link rel="stylesheet" crossorigin href="/assets/site-BySpHu5W.css">
+    <link rel="stylesheet" crossorigin href="/assets/site-B7KDydQj.css">
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
@@ -36,7 +36,13 @@
           <button class="duck-hit-target" type="button" aria-label="Move the cursor across the duck to slap it. Click to change its colors."></button>
           <span class="sr-only" id="filter-status" aria-live="polite"></span>
         </div>
-        <button class="sound-toggle" type="button" aria-pressed="true">Sound on</button>
+        <button class="sound-toggle" type="button" aria-pressed="true" aria-label="Mute sound">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M11 5 6 9H3v6h3l5 4z" fill="currentColor" />
+            <g class="icon-on"><path d="M15.5 8.5a5 5 0 0 1 0 7" /><path d="M18.5 5.5a9 9 0 0 1 0 13" /></g>
+            <g class="icon-off"><path d="m16 9 5 6" /><path d="m21 9-5 6" /></g>
+          </svg>
+        </button>
       </section>
     </main>
 
